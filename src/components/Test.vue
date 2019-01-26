@@ -9,7 +9,7 @@ export default {
   name: 'Test',
   data () {
     return {
-      msg: 'this is a test'
+      msg: 'this is a test for qc-vue-ui'
     }
   }
 }
